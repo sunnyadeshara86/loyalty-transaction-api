@@ -1,1 +1,1 @@
-# loyalty-transaction-api
+# Loyalty Transaction API
